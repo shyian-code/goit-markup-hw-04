@@ -1,0 +1,13 @@
+.features-list {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.features-item-title {
+  margin-bottom: 8px;
+}
+
+.features-list-item {
+  width: calc((100% - 72px) / 4);
+}

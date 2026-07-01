@@ -1,0 +1,15 @@
+.footer-section {
+  background-color: var(--navy-blue-color);
+  color: var(--cloud-color);
+  padding: 100px 0;
+}
+
+.footer-logo {
+  color: var(--cloud-color);
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
+.footer-text {
+  max-width: 264px;
+}
