@@ -11,3 +11,14 @@
 .features-list-item {
   width: calc((100% - 72px) / 4);
 }
+
+.features-item-icon-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 0px;
+  margin-bottom: 8px;
+  border-radius: 4px;
+  background-color: var(--cloud-color);
+  border: 1px solid var(--light-slate-color);
+}
