@@ -44,3 +44,18 @@
   gap: 24px;
   margin-top: 8px;
 }
+
+.team-item-social-link {
+  border-radius: 40px;
+  width: 40px;
+  height: 40px;
+  background-color: var(--iris-color);
+  color: var(--cloud-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.team-item-social-link:hover {
+  background-color: var(--ocean-color);
+}

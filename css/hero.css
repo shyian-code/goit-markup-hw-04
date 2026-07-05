@@ -10,7 +10,7 @@
       rgba(46, 47, 66, 0.7) 100%
     ),
     url(../images/hero-bg.jpg) no-repeat center;
-  background-size: contain;
+  background-size: cover;
 }
 
 .hero-title {
