@@ -16,7 +16,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 24px 0px;
+  height: 112px;
   margin-bottom: 8px;
   border-radius: 4px;
   background-color: var(--cloud-color);
